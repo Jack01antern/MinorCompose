@@ -3,6 +3,3 @@ plugins {
     alias(libs.plugins.androidLibrary) apply false
     alias(libs.plugins.jetbrainsKotlinAndroid) apply false
 }
-
-group = "com.example"
-version = "1.0.0"
