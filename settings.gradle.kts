@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "MinorCompose"
-include(":app")
  
