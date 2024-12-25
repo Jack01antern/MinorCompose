@@ -3,9 +3,6 @@ plugins {
     alias(libs.plugins.jetbrainsKotlinAndroid)
 }
 
-//group = "com.example"
-//version = "1.0.0"
-
 android {
     namespace = "com.example.minorcompose"
     compileSdk = 34
